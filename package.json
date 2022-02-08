@@ -1,0 +1,29 @@
+{
+  "name": "@the_blank/menumaker",
+  "version": "2.0.0",
+  "description": "Easily create menu for browser with this package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhymenulhaque/menumaker.git"
+  },
+  "keywords": [
+    "menu",
+    "js",
+    "browser",
+    "easy",
+    "javascript",
+    "package",
+    "dropdown",
+    "drop-down"
+  ],
+  "author": "Muhymenul Haque Ramim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhymenulhaque/menumaker/issues"
+  },
+  "homepage": "https://github.com/muhymenulhaque/menumaker#readme"
+}
